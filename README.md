@@ -1,6 +1,12 @@
-# Kitchen Transport Rsyc 
+# Kitchen Transport Rsync 
 
 A 15x time increase or more compared to net:ssh kitchen-test default transport.
+
+# Update
+
+Whops! Looks like this is a dup of an already existing library. Go use his. Oh well opensource.
+
+https://github.com/unibet/kitchen-transport-rsync
 
 # Usage
 
