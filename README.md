@@ -8,6 +8,13 @@ Whops! Looks like this is a dup of an already existing library. Go use his. Oh w
 
 https://github.com/unibet/kitchen-transport-rsync
 
+# Idea
+
+Since this is a dup, this can be easily modified to just change the rsync code to be a generic shell out
+and then put a erb line in the kitchen.yml to specificy your random shell-specific transport that you want to exec.
+
+anyway.
+
 # Usage
 
 Use like so.
